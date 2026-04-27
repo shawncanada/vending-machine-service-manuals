@@ -3,9 +3,11 @@
 **A comprehensive collection of legitimate service manuals for vending machines.**
 
 - **Total Manuals:** 12 verified PDF documents  
-- **Total Size:** 42MB of authentic content
-- **Source:** SanDisk USB collection - direct verified files
-- **Repository Status:** ✓ Clean - no blank/invalid PDFs
+- **Total Size:** 42MB of authentic content  
+- **Source:** SanDisk USB collection - direct verified files  
+- **Repository Status:** ✓ Clean - no blank/invalid PDFs  
+
+**Features:** Descriptive filenames with year information where available
 
 ---
 
@@ -19,7 +21,7 @@
 2. [Coke DN3800/DN5800 Series](#coke-dn3800dn5800-series)
    - [BevMax 3 DN43](#bevmax-3-dn43-service-manual)
    - [BevMax 4 DN3800/DN5800](#bevmax-4-dn3800dn5800-service-manual)
-   - [DN3800 XY Mechanism Service Bulletins](#dn3800-xy-mechanism-service-bulletin-313)
+   - [DN3800 XY Mechanism Service Bulletins (2014)](#dn3800-xy-mechanism-service-bulletin-313-2014)
 
 3. [Vendo Coke Machines](#vendo-coke-machines)
    - [Vendo V21-721-621 (2020)](#vendo-v21-721-621-service-manual-2020)
@@ -28,11 +30,11 @@
 ### **Crane National Vendors**
 4. [Crane 471 Series](#crane-471-series)
    - [Crane 471-472 R290 Parts](#crane-471-472-r290-parts-manual)
-   - [Crane Merchant Media Rev 5](#crane-merchant-media-parts-manual-rev5)
+   - [Crane Merchant Media Rev 5 (2017)](#crane-merchant-media-parts-manual-rev5-2017)
 
 5. [Crane 3800/5800 Series](#crane-38005800-series)
    - [BevMax 4](#bevmax-4-service-manual)
-   - [Dixie-Narco DN720](#dixie-narco-dn720-service-manual)
+   - [Dixie-Narco DN720 (2019)](#dixie-narco-dn720-service-manual-2019)
 
 ---
 
@@ -93,8 +95,8 @@ Service manual for BevMax 4 glassfront vender models DN5800-4, DN5800-E4, DN3800
 - Diagnostic procedures
 - Parts catalog
 
-#### [DN3800 XY Mechanism Service Bulletin 313](Coca-Cola%20Machines/Coke%20DN3800%20DN5800/Coca-Cola-DN3800-XY-Mechanism-Service-Bulletin-313.pdf)
-**Size:** 1.3MB | **Pages:** 16  
+#### [DN3800 XY Mechanism Service Bulletin 313 (2014)](Coca-Cola%20Machines/Coke%20DN3800%20DN5800/Coca-Cola-DN3800-XY-Mechanism-Service-Bulletin-313-2014.pdf)
+**Size:** 1.3MB | **Pages:** 16 | **Year:** 2014  
 Coca-Cola Refreshments Equipment Bulletin (July 9, 2014). Addresses XY mechanism troubleshooting for DN3800/5800 models.
 
 **Key Sections:**
@@ -104,8 +106,8 @@ Coca-Cola Refreshments Equipment Bulletin (July 9, 2014). Addresses XY mechanism
 - Adjustment procedures
 - Parts replacement
 
-#### [DN3800 XY Mechanism Service Bulletin 313 (Alternate)](Coca-Cola%20Machines/Coke%20DN3800%20DN5800/Coca-Cola-DN3800-XY-Mechanism-Service-Bulletin-313-Alt.pdf)
-**Size:** 1.3MB | **Pages:** 16  
+#### [DN3800 XY Mechanism Service Bulletin 313 Alt (2014)](Coca-Cola%20Machines/Coke%20DN3800%20DN5800/Coca-Cola-DN3800-XY-Mechanism-Service-Bulletin-313-2014-Alt.pdf)
+**Size:** 1.3MB | **Pages:** 16 | **Year:** 2014  
 Alternate version of Service Bulletin 313 with additional diagnostic information.
 
 ---
@@ -114,7 +116,7 @@ Alternate version of Service Bulletin 313 with additional diagnostic information
 Complete service documentation for Vendo vending equipment.
 
 #### [Vendo V21-721-621 Service Manual (2020)](Coca-Cola%20Machines/Vendo%20Coke/Vendo-V21-721-621-Service-Manual-2020.pdf)
-**Size:** 8.7MB | **Pages:** 257  
+**Size:** 8.7MB | **Pages:** 257 | **Year:** 2020  
 Parts & Service Manual for all V21 identified equipment. Comprehensive documentation for Vendo 721/621 models.
 
 **Key Sections:**
@@ -160,8 +162,8 @@ Parts manual for Crane 471/472 R290 models including complete parts listings and
 - Supplier information
 - Part number cross-reference
 
-#### [Crane Merchant Media Parts Manual Rev 5](Crane%20471%20Series/Crane-Merchant-Media-Parts-Manual-Rev5.pdf)
-**Size:** 9.5MB | **Pages:** 71  
+#### [Crane Merchant Media Parts Manual Rev 5 (2017)](Crane%20471%20Series/Crane-Merchant-Media-Parts-Manual-Rev5-2017.pdf)
+**Size:** 9.5MB | **Pages:** 71 | **Year:** 2017  
 Comprehensive parts manual for Crane Merchant Media models 186, 187, 471, 472 (P/N CR0021459, CR0021460).
 
 **Key Sections:**
@@ -177,7 +179,7 @@ Comprehensive parts manual for Crane Merchant Media models 186, 187, 471, 472 (P
 
 ---
 
-### **CRANE NATIONAL VENDORS 3800/5800 SERIES**
+### **CRANE NATIONAL VENDORS**
 Service documentation for Crane National Vendors glassfront vending equipment.
 
 #### [BevMax 4 Service Manual](Crane%20National%20Vendors/3800%205800%20Series/BevMax-4-Service-Manual.pdf)
@@ -194,8 +196,8 @@ Service manual for glassfront vender models DN5800-4, DN5800-E4, DN3800-4, DN380
 - Parts identification
 - Wiring diagrams
 
-#### [Dixie-Narco DN720 Service Manual](Crane%20National%20Vendors/3800%205800%20Series/Dixie-Narco-DN720-Service-Manual.pdf)
-**Size:** 1.7MB | **Pages:** 36  
+#### [Dixie-Narco DN720 Service Manual (2019)](Crane%20National%20Vendors/3800%205800%20Series/Dixie-Narco-DN720-Service-Manual-2019.pdf)
+**Size:** 1.7MB | **Pages:** 36 | **Year:** 2019  
 Parts manual for Dixie-Narco DN-720P glassfront beverage vender (date: 09-05-2019).
 
 **Key Sections:**
@@ -210,28 +212,19 @@ Parts manual for Dixie-Narco DN-720P glassfront beverage vender (date: 09-05-201
 
 ## 🔍 MANUAL QUICK REFERENCE
 
-| Machine Type | Model | Manual | Size |
-|--------------|--------|---------|------|
-| Royal Vendo | GIII Plus | [Service Manual](Coca-Cola%20Machines/Royal%20Coke/Royal-Vendors-GIII-Plus-Service-Manual.pdf) | 1.5M |
-| Royal Vendo | GIII 3DVIS | [MFG Manual](Coca-Cola%20Machines/Royal%20Coke/Royal-Vendors-GIII-3DVIS-Plus-MFG-Manual.pdf) | 1.5M |
-| BevMax 3 | DN43 | [Service Manual](Coca-Cola%20Machines/Coke%20DN3800%20DN5800/BevMax-3-DN43-Service-Manual.pdf) | 1.9M |
-| BevMax 4 | DN3800/DN5800 | [Service Manual](Coca-Cola%20Machines/Coke%20DN3800%20DN5800/BevMax-4-DN3800-DN5800-Service-Manual.pdf) | 1.9M |
-| Coca-Cola | DN3800 | [Service Bulletin](Coca-Cola%20Machines/Coke%20DN3800%20DN5800/Coca-Cola-DN3800-XY-Mechanism-Service-Bulletin-313.pdf) | 1.3M |
-| Vendo | V21-721-621 | [Service Manual](Coca-Cola%20Machines/Vendo%20Coke/Vendo-V21-721-621-Service-Manual-2020.pdf) | 8.7M |
-| Vendo | V21-521-821 | [Service Manual](Coca-Cola%20Machines/Vendo%20Coke/Vendo-V21-521-821-Service-Manual.pdf) | 8.6M |
-| Crane | 471/472 | [Parts Manual](Crane%20471%20Series/Crane-471-472-R290-Parts-Manual.pdf) | 2.6M |
-| Crane | Merchant | [Parts Manual](Crane%20471%20Series/Crane-Merchant-Media-Parts-Manual-Rev5.pdf) | 9.5M |
-| Crane | BevMax 4 | [Service Manual](Crane%20National%20Vendors/3800%205800%20Series/BevMax-4-Service-Manual.pdf) | 1.7M |
-| Dixie-Narco | DN720 | [Service Manual](Crane%20National%20Vendors/3800%205800%20Series/Dixie-Narco-DN720-Service-Manual.pdf) | 1.7M |
-
----
-
-## 📞 MANUFACTURER INFORMATION
-
-**Royal Vendors, Inc.**  
-**Vendo America / SandenVendo**  
-**Coca-Cola Refreshments**  
-**Crane Co. / Crane National Vendors**
+| Machine Type | Model | Manual | Size | Year |
+|--------------|--------|---------|------|------|
+| Royal Vendo | GIII Plus | [Service Manual](Coca-Cola%20Machines/Royal%20Coke/Royal-Vendors-GIII-Plus-Service-Manual.pdf) | 1.5M | - |
+| Royal Vendo | GIII 3DVIS | [MFG Manual](Coca-Cola%20Machines/Royal%20Coke/Royal-Vendors-GIII-3DVIS-Plus-MFG-Manual.pdf) | 1.5M | - |
+| BevMax 3 | DN43 | [Service Manual](Coca-Cola%20Machines/Coke%20DN3800%20DN5800/BevMax-3-DN43-Service-Manual.pdf) | 1.9M | - |
+| BevMax 4 | DN3800/DN5800 | [Service Manual](Coca-Cola%20Machines/Coke%20DN3800%20DN5800/BevMax-4-DN3800-DN5800-Service-Manual.pdf) | 1.9M | - |
+| Coca-Cola | DN3800 | [Service Bulletin 313 (2014)](Coca-Cola%20Machines/Coke%20DN3800%20DN5800/Coca-Cola-DN3800-XY-Mechanism-Service-Bulletin-313-2014.pdf) | 1.3M | 2014 |
+| Vendo | V21-721-621 | [Service Manual (2020)](Coca-Cola%20Machines/Vendo%20Coke/Vendo-V21-721-621-Service-Manual-2020.pdf) | 8.7M | 2020 |
+| Vendo | V21-521-821 | [Service Manual](Coca-Cola%20Machines/Vendo%20Coke/Vendo-V21-521-821-Service-Manual.pdf) | 8.6M | - |
+| Crane | 471/472 | [Parts Manual](Crane%20471%20Series/Crane-471-472-R290-Parts-Manual.pdf) | 2.6M | - |
+| Crane | Merchant | [Parts Manual (2017)](Crane%20471%20Series/Crane-Merchant-Media-Parts-Manual-Rev5-2017.pdf) | 9.5M | 2017 |
+| Crane | BevMax 4 | [Service Manual](Crane%20National%20Vendors/3800%205800%20Series/BevMax-4-Service-Manual.pdf) | 1.7M | - |
+| Dixie-Narco | DN720 | [Service Manual (2019)](Crane%20National%20Vendors/3800%205800%20Series/Dixie-Narco-DN720-Service-Manual-2019.pdf) | 1.7M | 2019 |
 
 ---
 
@@ -295,6 +288,42 @@ Parts manual for Dixie-Narco DN-720P glassfront beverage vender (date: 09-05-201
 - file command validation (PDF format confirmed)
 - Size analysis (1.3MB-9.6MB - all substantial)
 
+**Year Information:**
+- ✓ Coca-Cola Service Bulletin 313: 2014
+- ✓ Dixie-Narco DN720: 2019
+- ✓ Crane Merchant Media Rev 5: 2017
+- ✓ Vendo V21-721-621: 2020
+- Other manuals: Year not specified in document
+
 ---
 
-**IMPORTANT:** Always verify you have the correct manual for your specific model number before servicing equipment. Check model plates and serial numbers for accuracy.
+## 🎯 USING THIS REPOSITORY
+
+**Quick Start:**
+1. Identify your machine model (check model plate/serial number)
+2. Browse to appropriate category in table of contents
+3. Click PDF links to access manuals directly in GitHub
+4. Use troubleshooting tips for common issues
+5. Reference parts manuals for component identification
+
+**Finding Your Model:**
+- Check the metal plate inside the machine (usually behind front door)
+- Look for model numbers like: GIII, DN3800, V21-721, etc.
+- Serial numbers often indicate production year
+
+**Manual Selection:**
+- *Service Manuals*: Complete repair and troubleshooting
+- *Parts Manuals*: Component identification and part numbers
+- *Operation Manuals*: Basic operation and maintenance
+- *Service Bulletins*: Specific issue resolutions
+
+**GitHub Repository:** https://github.com/shawncanada/vending-machine-service-manuals  
+**Last Verified:** April 26, 2026  
+**File Count:** 13 files (12 PDFs + README)  
+**Total Size:** 42MB authentic content  
+**Organization:** 5 categories  
+**Descriptive Naming:** ✓ Complete with year indicators  
+
+---
+
+**IMPORTANT:** Always verify your specific model and serial number against the manual before servicing equipment. Technical specifications can vary between production runs and configurations.
